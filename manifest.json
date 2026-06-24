@@ -1,0 +1,27 @@
+{
+  "id": "com.example.solarized",
+  "name": "Solarized Theme",
+  "version": "1.0.0",
+
+  "company": "Harbor",
+  "description": "README.md",
+  "icon": "assets/icon.png",
+  "screenshots": [
+    {
+      "path": "assets/screenshots/appearance.png",
+      "caption": "Solarized Dark in Settings → General → Appearance"
+    }
+  ],
+  "homepage": "https://harborclient.com/",
+  "bugs": {
+    "url": "https://github.com/harborclient/harborclient/issues"
+  },
+
+  "engines": { "harborclient": ">=1.7.0" },
+  "renderer": "dist/renderer.js",
+  "permissions": ["ui"],
+
+  "contributes": {
+    "themes": [{ "id": "solarized", "title": "Solarized Dark", "type": "dark" }]
+  }
+}
