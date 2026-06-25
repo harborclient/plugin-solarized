@@ -1,6 +1,6 @@
 {
   "name": "@harborclient/plugin-solarized",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "devDependencies": {
     "@harborclient/plugin-api": "^0.4.1",
