@@ -1,9 +1,8 @@
 {
-  "name": "my-harborclient-plugin",
-  "private": true,
+  "name": "@harborclient/plugin-solarized",
   "type": "module",
   "devDependencies": {
-    "@harborclient/plugin-api": "^0.1.1",
+    "@harborclient/plugin-api": "^0.2.4",
     "@types/react": "^19.2.17",
     "esbuild": "^0.25.0",
     "react": "^19.2.7",
