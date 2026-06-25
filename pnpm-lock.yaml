@@ -9,8 +9,11 @@ importers:
   .:
     devDependencies:
       '@harborclient/plugin-api':
-        specifier: ^0.1.1
-        version: 0.1.1(react@19.2.7)
+        specifier: ^0.4.1
+        version: 0.4.1(react@19.2.7)
+      '@types/node':
+        specifier: ^26.0.1
+        version: 26.0.1
       '@types/react':
         specifier: ^19.2.17
         version: 19.2.17
@@ -182,10 +185,14 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@harborclient/plugin-api@0.1.1':
-    resolution: {integrity: sha512-BjyL2D6jj84zQ0g/SO1MkPFHzWD0lvKbmb4BEYbst3dDgYpGwqMqgxvK6rGf2BeKPGoUwj2qZRGN5Azws312NQ==}
+  '@harborclient/plugin-api@0.4.1':
+    resolution: {integrity: sha512-gD9nFiA8I/QMNsdeOac22wtiK1pJgEjx6QiNjO0gWOmDDt4pPGajT+A8pUumjYP+CPaip4QmMhw64tfBJ1CyZw==}
+    hasBin: true
     peerDependencies:
       react: '>=18'
+
+  '@types/node@26.0.1':
+    resolution: {integrity: sha512-fc3KiUoBt6kie0N9bIW3E47vZsuaMf0PM2AaUpLCLT0s/LvX1nxAim6Fc049cNxODPpGm6qRAuUOB86SkRuPQw==}
 
   '@types/react@19.2.17':
     resolution: {integrity: sha512-MXfmqaVPEVgkBT/aY0aGCkRWWtByiYQXo3xdQ8r5RzuFrPiRn8Gar2tQdXSUQ2GKV3bkXckek89V8wQBY2Q/Aw==}
@@ -206,6 +213,9 @@ packages:
     resolution: {integrity: sha512-jl1vZzPDinLr9eUt3J/t7V6FgNEw9QjvBPdysz9KfQDD41fQrC2Y4vKQdiaUpFT4bXlb1RHhLpp8wtm6M5TgSw==}
     engines: {node: '>=14.17'}
     hasBin: true
+
+  undici-types@8.3.0:
+    resolution: {integrity: sha512-j375ScV60dom+YkPFIfTLcOiPxkN/buHz5GobjLhixFuANaNs3C9l4GmrWqejgXWJ7BbJcFYpTEUkS1Ge8bpZQ==}
 
 snapshots:
 
@@ -287,9 +297,13 @@ snapshots:
   '@esbuild/win32-x64@0.25.12':
     optional: true
 
-  '@harborclient/plugin-api@0.1.1(react@19.2.7)':
+  '@harborclient/plugin-api@0.4.1(react@19.2.7)':
     dependencies:
       react: 19.2.7
+
+  '@types/node@26.0.1':
+    dependencies:
+      undici-types: 8.3.0
 
   '@types/react@19.2.17':
     dependencies:
@@ -329,3 +343,5 @@ snapshots:
   react@19.2.7: {}
 
   typescript@5.9.3: {}
+
+  undici-types@8.3.0: {}

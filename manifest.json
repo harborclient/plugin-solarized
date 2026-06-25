@@ -2,7 +2,6 @@
   "id": "com.harborclient.plugins.solarized",
   "name": "Solarized Theme",
   "version": "1.0.0",
-
   "company": "HarborClient",
   "description": "README.md",
   "icon": "assets/icon.png",
@@ -16,11 +15,9 @@
   "bugs": {
     "url": "https://github.com/harborclient/plugin-solarized/issues"
   },
-
   "engines": { "harborclient": ">=1.8.0" },
   "renderer": "dist/renderer.js",
   "permissions": ["ui"],
-
   "contributes": {
     "themes": [{ "id": "solarized", "title": "Solarized Dark", "type": "dark" }]
   }
