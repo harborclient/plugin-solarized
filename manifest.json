@@ -1,8 +1,8 @@
 {
   "id": "com.harborclient.plugins.solarized",
   "name": "Solarized Theme",
-  "version": "1.0.0",
-  "company": "HarborClient",
+  "version": "1.0.1",
+  "author": "HarborClient",
   "description": "README.md",
   "icon": "assets/icon.png",
   "screenshots": [

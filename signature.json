@@ -22,11 +22,11 @@
     },
     {
       "path": "manifest.json",
-      "sha256": "1140fba1f8d21837e266f147999cc302870a0e3f07728ca293b0ea3838c0b693"
+      "sha256": "49256afd81eafa45f5b881fe6f72f945adfa5d84450f8b610b4a27834ae325d9"
     },
     {
       "path": "package.json",
-      "sha256": "5270897d7c4e2a31ae58cbc969aebad92fff77a077609f9326c708a9145f1d17"
+      "sha256": "215f6c2a60dff9d3e6cd6438058e779840d2b93da6f555b066c8ad5285b608e8"
     },
     {
       "path": "pnpm-lock.yaml",
@@ -49,5 +49,5 @@
       "sha256": "da11c1dadf6fff70c5da4f164065e96a36e7c0873d1f9b3232244d138b07c331"
     }
   ],
-  "signature": "qlqH8bA8AgW50i0hAN5fWfMDN5bX++xTp17eG7Dzsa/6f/Df86g7ejDbrm7OHgqKJKVgl4HprXtocWD7Xvy+DQ=="
+  "signature": "0s3d48nAsyY7+PGLqy28LLVE9su2RTpqTbN6U07Hrstd7yGrPLObHbrY4np+EMhxnPJQ0ROhYTxVyxmTyVdLDw=="
 }
