@@ -1,13 +1,12 @@
 {
   "id": "com.harborclient.plugins.solarized",
   "name": "Solarized Theme",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "HarborClient",
   "description": "README.md",
-  "icon": "assets/icon.png",
   "screenshots": [
     {
-      "path": "assets/screenshots/appearance.png",
+      "path": "screenshot.png",
       "caption": "Solarized Dark in Settings → General → Appearance"
     }
   ],

@@ -1,9 +1,9 @@
 {
   "name": "@harborclient/plugin-solarized",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "devDependencies": {
-    "@harborclient/plugin-api": "^0.4.1",
+    "@harborclient/sdk": "^0.4.3",
     "@types/node": "^26.0.1",
     "@types/react": "^19.2.17",
     "esbuild": "^0.25.0",
