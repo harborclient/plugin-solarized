@@ -1,4 +1,4 @@
-import type { PluginContext } from "@harborclient/plugin-api";
+import type { PluginContext } from "@harborclient/sdk";
 
 export function activate(hc: PluginContext): void {
   hc.subscriptions.push(
