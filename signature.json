@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "pluginId": "com.harborclient.plugins.solarized",
-  "pluginVersion": "1.0.5",
+  "pluginVersion": "1.0.6",
   "algorithm": "Ed25519",
   "files": [
     {
@@ -10,19 +10,19 @@
     },
     {
       "path": "dist/renderer.js",
-      "sha256": "18eb2c80693de1bca18642e77ea5a7c436560ccbe871850ebf06462d46e93aef"
+      "sha256": "c63ec4aca4cd883e7ffc422f1148d5e08e1a2440939d7e0867e9bc6f8131bead"
     },
     {
       "path": "manifest.json",
-      "sha256": "7d74bd5a5cd5e33b0fba7989d7ca38cfa6f863fd199c001ebfb57f1b695d2e04"
+      "sha256": "d3ff16a622137ea2f3e4f39808d98102d7034df4541baf66522d004d47123007"
     },
     {
       "path": "package.json",
-      "sha256": "2ef0ea995fa4ed2fc74bff696b990622be43b74178226f1eae401d62bb25051f"
+      "sha256": "f9245757e3f545aae7979586aadc744552303fc470b5636080d1dbb2e697a059"
     },
     {
       "path": "pnpm-lock.yaml",
-      "sha256": "9b7ee16b5557abcac40b37b8e35794e8e7ae8a8d1ce92fd677dead6d4275376b"
+      "sha256": "d761af9eb8f77808546420b2d2b00beec7f73020bc060d2136dea61133eb03f1"
     },
     {
       "path": "README.md",
@@ -31,6 +31,10 @@
     {
       "path": "screenshot.png",
       "sha256": "76502cc9f9183ec633c85499bb60cb1372b52fdb207161d23f95adb30b318172"
+    },
+    {
+      "path": "scripts/build.mjs",
+      "sha256": "6bca52efb2dbbaa84dd0efc9fd0fb02a8a9c59dd666756b4006b2f86ba902539"
     },
     {
       "path": "scripts/plugin-sign.ts",
@@ -42,7 +46,7 @@
     },
     {
       "path": "scripts/render-screenshot.sh",
-      "sha256": "abb4e577c6a59836a2b4164e3ba8c3afe5ac9f1f7f603c849dc0649bcc427579"
+      "sha256": "d2fe525f530446f4f53add2abcfed2ec7f11253a7d128608781ccd18487fbb25"
     },
     {
       "path": "scripts/screenshot-marketing.html",
@@ -50,8 +54,12 @@
     },
     {
       "path": "src/renderer.tsx",
-      "sha256": "731c5fd2dfe118f7db46031bb26d725fcda3b493670e52c478ab683c066ed04b"
+      "sha256": "0f7496577dc3e4c37f8b97f23c970676c8a7e4bf324629eeab7d7e41a18de6f3"
+    },
+    {
+      "path": "tsconfig.json",
+      "sha256": "663c22f2cb634722bc1c1191c4808b53c89d930979d4936cb6d0a539f4476ac9"
     }
   ],
-  "signature": "PXgZPR9OgCQtR/eIZ6Zg0XmDKxh0pL6G1u327ZFeZO+alaeocJMQwZPcfkhwpPemZC8uVGUSk7ndPR9MiAFPCA=="
+  "signature": "svlVaMr5NQVmfsehLrcVqOeLBL+rDiQHu2wHYxfVHo23CeKpEl2w3kLELUsOcuhCVQ5BpHO6IxLFzyzJOE08DQ=="
 }
