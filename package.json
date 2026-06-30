@@ -10,7 +10,7 @@
     "plugin:verify": "node --experimental-strip-types scripts/plugin-verify.ts"
   },
   "dependencies": {
-    "@harborclient/sdk": "^0.6.15"
+    "@harborclient/sdk": "^0.7.0"
   },
   "devDependencies": {
     
