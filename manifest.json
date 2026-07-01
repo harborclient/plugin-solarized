@@ -1,20 +1,19 @@
 {
   "id": "com.harborclient.plugins.solarized",
   "name": "Solarized Theme",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "author": "HarborClient",
   "description": "README.md",
+  "summary": "A Solarized theme for HarborClient.",
+  "categories": ["themes"],
   "screenshots": [
-    {
-      "path": "screenshot.png",
-      "caption": "Solarized Dark in Settings → General → Appearance"
-    }
+    "https://raw.githubusercontent.com/harborclient/plugin-solarized/main/screenshot.png"
   ],
   "homepage": "https://github.com/harborclient/plugin-solarized",
   "bugs": {
     "url": "https://github.com/harborclient/plugin-solarized/issues"
   },
-  "engines": { "harborclient": ">=1.8.0" },
+  "engines": { "harborclient": ">=1.9.0" },
   "renderer": "dist/renderer.js",
   "permissions": ["ui"],
   "contributes": {
