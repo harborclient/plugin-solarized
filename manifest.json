@@ -1,11 +1,11 @@
 {
   "id": "com.harborclient.plugins.solarized",
   "name": "Solarized Theme",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "author": "HarborClient",
   "description": "README.md",
   "summary": "A Solarized theme for HarborClient.",
-  "categories": ["themes"],
+  "categories": ["themes", "dark"],
   "screenshots": [
     "https://raw.githubusercontent.com/harborclient/plugin-solarized/main/screenshot.png"
   ],
