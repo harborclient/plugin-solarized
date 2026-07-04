@@ -1,5 +1,5 @@
 {
-  "name": "@harborclient/plugin-solarized",
+  "name": "@harborclient/theme-solarized",
   "type": "module",
   "scripts": {
     "release": "bash scripts/publish.sh",
