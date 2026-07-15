@@ -94,7 +94,6 @@ console.log(manifest.id);
 NODE
 )"
 
-pnpm build
 pnpm plugin:sign -- --dir . \
   --private-key "$HARBORCLIENT_PLUGIN_SIGNING_KEY" \
   --key-id "$key_id"
