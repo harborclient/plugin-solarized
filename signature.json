@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "pluginId": "com.harborclient.plugins.solarized",
-  "pluginVersion": "1.1.3",
+  "pluginVersion": "1.1.4",
   "algorithm": "Ed25519",
   "files": [
     {
@@ -10,11 +10,11 @@
     },
     {
       "path": "exported.json",
-      "sha256": "2bf37d6c3552e8c5caf52f79c4f95b4d30b8c78d0174cc92de4fd42c298a97d7"
+      "sha256": "a75d27859ece2dd35ff808bba25bbb45222a22371b2c30ea1f9c3109bcefe194"
     },
     {
       "path": "manifest.json",
-      "sha256": "1230d843973a4d3b1c67e01fe5ffe8e4c26698d7779fb1982711e2376ce1819b"
+      "sha256": "147a9aef4541e5298b90792cfbb34fd6070659b78220f80429016ba1b689d51f"
     },
     {
       "path": "package.json",
@@ -46,5 +46,5 @@
     }
   ],
   "keyId": "com.harborclient.plugins.solarized",
-  "signature": "pXmJH3rEpVLNQNQv8IT0HhNVzbNGQ1//jspZzj6FfAMVlJ3gcvR8uNMU35Cj5NvKlFD5bO9uB2JIay0X4D71Dg=="
+  "signature": "lFoLN7NNgQf15C1ydJG844UWZqSgNdlb4gysuKCPzB3+mEDZYajX7NsNF+z6Io6T3CdnLnWglzxMzYjbl/j2Dg=="
 }
